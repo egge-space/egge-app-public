@@ -1,3 +1,3 @@
 # Egge Space 
 
-## Public Bug / Feature Tracker!
+### Public Bug / Feature Tracker!
