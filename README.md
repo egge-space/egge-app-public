@@ -1,3 +1,5 @@
+![Egge Logo](/logo.png)
+
 # Egge Space 
 
 ### Public Bug / Feature Tracker!
